@@ -1,0 +1,10 @@
+.DS_Store
+*.egg-info
+__pycache__
+build*
+dist
+/.vscode
+*.jpg
+*.png
+*.o
+*.obj
